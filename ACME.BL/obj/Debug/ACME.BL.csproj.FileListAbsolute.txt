@@ -1,0 +1,6 @@
+C:\Users\Marcos\Desktop\Desarrollo Back End\API Rest\NuevaApi\ACME\ACME.BL\bin\Debug\ACME.BL.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\API Rest\NuevaApi\ACME\ACME.BL\bin\Debug\ACME.BL.pdb
+C:\Users\Marcos\Desktop\Desarrollo Back End\API Rest\NuevaApi\ACME\ACME.BL\obj\Debug\ACME.BL.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\API Rest\NuevaApi\ACME\ACME.BL\obj\Debug\ACME.BL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\API Rest\NuevaApi\ACME\ACME.BL\obj\Debug\ACME.BL.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\API Rest\NuevaApi\ACME\ACME.BL\obj\Debug\ACME.BL.pdb
